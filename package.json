@@ -1,0 +1,11 @@
+{
+  "name": "old-school-search",
+  "version": "0.0.1",
+  "description": "Apostrophe monkey-patch to use the old regex search instead of the mongodb fulltext search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Povolotski <dannypovolotski@gmail.com>",
+  "license": "ISC"
+}
